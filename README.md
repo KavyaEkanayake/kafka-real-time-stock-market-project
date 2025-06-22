@@ -6,6 +6,7 @@ This project is an end-to-end real-time data engineering pipeline that captures 
 ## Architecture 
 <img src="Architecture.jpg">
 
+
 ## Key Features
 🔄 Real-time ingestion of stock market data <br>
 ☁️ Cloud-native storage using Amazon S3  <br>
@@ -27,3 +28,4 @@ This project is an end-to-end real-time data engineering pipeline that captures 
 ## Dataset Used
 https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
 
+---
